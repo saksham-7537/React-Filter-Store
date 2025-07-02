@@ -1,12 +1,43 @@
-# React + Vite
+# 🛍️ React Filter Store
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive product filtering store built with **React**, **Tailwind CSS**, and **Context API**. Search, filter, and explore products effortlessly!
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![GitHub repo size](https://img.shields.io/github/repo-size/saksham-7537/React-Filter-Store?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/saksham-7537/React-Filter-Store?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/saksham-7537/React-Filter-Store?style=flat-square)
+![License](https://img.shields.io/github/license/saksham-7537/React-Filter-Store?style=flat-square)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+
+- 🔍 Search by product name
+- 🧰 Filter by:
+  - Category
+  - Price range
+  - Colors
+- ⚡ Instant UI updates
+- 📱 Fully responsive
+- 🎨 Clean, minimalist design
+
+---
+
+## 🧑‍💻 Tech Stack
+
+- **React**
+- **Tailwind CSS**
+- **React Context API**
+- **React Icons**
+
+---
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/saksham-7537/React-Filter-Store.git
+cd React-Filter-Store
+npm install
+npm run dev
+
